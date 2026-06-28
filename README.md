@@ -1,4 +1,4 @@
-# customer-behavior-analytics
+# Customer-behavior-analytics
 Data analytics project analyzing customer shopping trends through EDA, SQL business analysis, and interactive Power BI dashboards.
 # 🛍️ Customer Behavior Analytics | End-to-End Retail Data Analysis
 
